@@ -12,7 +12,10 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 **Forum Debian Users Gang** - https://forum.dug.net.pl/ - forum dyskusyjne miłośników dystrybucji Debian GNU/Linux  
 **web-talk** - https://web-talk.pl/ - forum polskich web develeoperów  
 **radioscanner** - https://radioscanner.pl/index.php - forum miłośników radiokomunikacji  
-**RadioPolska** - https://forum.radiopolska.pl/ (login radiopolska hasło radiopolska)
+**RadioPolska** - https://forum.radiopolska.pl/ (login radiopolska hasło radiopolska)  
+**TVNFakty** – https://forum.tvnfakty.pl/ – forum widzów i fanów stacji TVN i TVN24  
+**TVPolsat.info** – https://www.forum.tvpolsat.info/ – nieoficjalne forum Polsat  
+**Forum Media2.pl** – https://forum.media2.pl/ – największe internetowe forum dyskusyjne poświęcone mediom polskim i zagranicznym
 
 ## Religia
 **Forum Krzyż** - https://krzyz.nazwa.pl/forum/index.php - forum tradcyjonalistów katolickich  
@@ -26,6 +29,7 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 **DWS** - https://www.dws.org.pl/ - forum o wojnach światowych  
 **Złośniki** - https://zlosniki.pl/ - społeczność zorganizowana wokół tematów motoryzacyjnych i pokrewnych  
 **Formicopedia** - https://forum.formicopedia.org/index.php - forum o mrówkach  
+**SatKurier** - https://forum.satkurier.pl/ - forum o telewizji satelitarnej, kablowej, cyfrowej i technice odbioru TV
 
 
 ## Zdrowie
