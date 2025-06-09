@@ -5,7 +5,7 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 ## Ogólnotematyczne
 **Gazeta.pl Forum** - https://forum.gazeta.pl  
 **Szmer** – https://szmer.info/ – zdecentralizowany agregator treści i dyskusji (oparty na Lemmy, podobne do Reddita)  
-**Hejto** - https://www.hejto.pl/gorace/typ/dyskusje
+**Hejto** - https://www.hejto.pl/gorace/typ/dyskusje  
 **Wykop** - https://www.wykop.pl/mikroblog  
 
 ## Technologia
