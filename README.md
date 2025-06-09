@@ -18,3 +18,6 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 
 ## Różne
 **Dogomania** - https://www.dogomania.com/forum  
+**Turystycznie** - https://www.turystycznie-forum.pl/ - forum turystyczne  
+**Bieszczadzkie Forum Dyskusyjne** - http://forum.bieszczady.info.pl/  
+**Psychiatryczne** - https://forumpsychiatryczne.pl/forum
