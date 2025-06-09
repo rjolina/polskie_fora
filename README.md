@@ -10,6 +10,9 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 **Elektroda** - https://www.elektroda.pl/ - forum o elektronice i technice  
 **CD-Action Forum** - https://forum.cdaction.pl  
 **Forum Debian Users Gang** - https://forum.dug.net.pl/ - forum dyskusyjne miłośników dystrybucji Debian GNU/Linux  
+**web-talk** - https://web-talk.pl/ - forum polskich web develeoperów  
+**radioscanner** - https://radioscanner.pl/index.php - forum miłośników radiokomunikacji  
+**RadioPolska** - https://forum.radiopolska.pl/ (login radiopolska hasło radiopolska)
 
 ## Religia
 **Forum Krzyż** - https://krzyz.nazwa.pl/forum/index.php - forum tradcyjonalistów katolickich  
@@ -20,6 +23,9 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 **Dogomania** - https://www.dogomania.com/forum  
 **Turystycznie** - https://www.turystycznie-forum.pl/ - forum turystyczne  
 **Bieszczadzkie Forum Dyskusyjne** - http://forum.bieszczady.info.pl/  
+**DWS** - https://www.dws.org.pl/ - forum o wojnach światowych  
+**Złośniki** - https://zlosniki.pl/ - społeczność zorganizowana wokół tematów motoryzacyjnych i pokrewnych  
+**Formicopedia** - https://forum.formicopedia.org/index.php - forum o mrówkach  
 
 
 ## Zdrowie
