@@ -1,6 +1,6 @@
 Nazwa,Adres,Opis,Rodzaj,Rejestracja
-Elektroda,https://www.elektroda.pl/,"Forum o elektronice i technice",klasyczne,wymagana
-Wykop Mikroblog,https://www.wykop.pl/mikroblog/,"Mikroblog z tagami i komentarzami",mikroblog,opcjonalna
-CD-Action Forum,https://forum.cdaction.pl/,"Gry, sprzęt, popkultura",klasyczne,wymagana
-Dogomania,https://www.dogomania.com/forum/,"Psy, rasy, porady",klasyczne,wymagana
-Gazeta.pl Forum,https://forum.gazeta.pl/,"Fora tematyczne, dyskusyjne",klasyczne,opcjonalna
+Elektroda,https://www.elektroda.pl/,"Forum o elektronice i technice",forum,otwarta
+Wykop Mikroblog,https://www.wykop.pl/mikroblog/, ,mikroblog,otwarta
+CD-Action Forum,https://forum.cdaction.pl/,"Gry, sprzęt, popkultura",forum,otwarta
+Dogomania,https://www.dogomania.com/forum/,"Psy, rasy, porady",forum,otwarta
+Gazeta.pl Forum,https://forum.gazeta.pl/,"Fora tematyczne, dyskusyjne",forum,otwarta
