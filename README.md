@@ -16,6 +16,8 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 - **Złośniki** - https://zlosniki.pl/ - społeczność zorganizowana wokół tematów motoryzacyjnych i pokrewnych
 - **Telepolis** - https://www.telepolis.pl/forum/ - forum poświecone telefonii komórkowej, z naciskiem na oferty operatorów
 - **forum.android.com.pl** - https://forum.android.com.pl - forum poświęcone urządzeniom mobilnym z Androidem
+- **dobrepogramy.pl** - https://forum.dobreprogramy.pl/
+- **purepc.pl** - https://forum.purepc.pl/
 ### Komputery
 - **CD-Action Forum** - https://forum.cdaction.pl  
 - **Forum Debian Users Gang** - https://forum.dug.net.pl/ - forum dyskusyjne miłośników dystrybucji Debian GNU/Linux  
@@ -68,4 +70,6 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 
 ## Zdrowie
 - **Schizofrenia** - https://schizofrenia.evot.org/ - forum dla osób dotkniętych schizofrenią, ich rodzin oraz zainteresowanych  
-- **Psychiatryczne** - https://forumpsychiatryczne.pl/forum  
+- **Psychiatryczne** - https://forumpsychiatryczne.pl/forum
+- **Nerwica** - https://www.nerwica.com/
+- **Vitalia** - http://vitalia.pl/fora.html - odchudzanie, dieta, fitness
