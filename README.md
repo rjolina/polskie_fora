@@ -73,3 +73,4 @@ To repo ma na celu zebranie linków do aktywnych polskich forów internetowych. 
 - **Psychiatryczne** - https://forumpsychiatryczne.pl/forum
 - **Nerwica** - https://www.nerwica.com/
 - **Vitalia** - http://vitalia.pl/fora.html - odchudzanie, dieta, fitness
+- **bieganie** - https://bieganie.pl/forum/
